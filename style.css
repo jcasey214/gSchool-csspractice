@@ -1,0 +1,55 @@
+body{
+  font-family: arial;
+  margin: 20px;
+}
+
+.entry{
+  border: 1px solid black;
+  width: 700px;
+  height: 150px;
+  margin-top: 20px;
+}
+
+.profile{
+  float: left;
+  width: 150px;
+  height: 150px;
+}
+
+.profile img{
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  margin: 15px;
+}
+.head{
+  float: left
+}
+
+.foot{
+  float: left;
+  width: 500px;
+  margin: 50px 0 0 0;
+  display: inline-block;
+  height: 30px;
+}
+
+.foot img{
+  width: 30px;
+  height: 30px;
+}
+
+.like{
+  float: left;
+}
+
+.comment{
+  float: left;
+  margin-left: 20px;
+}
+
+.foot h3 {
+  display: inline;
+  margin-left: 10px;
+  vertical-align: top;
+}
